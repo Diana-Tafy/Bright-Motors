@@ -1,5 +1,8 @@
 ###Bright Motors Car Sales Analysis
-📊 Project Overview
+
+📊 Project Overview       
+
+Dashboard https://brightmotors.lovable.app
 
 This project presents a comprehensive data analysis case study for Bright Motors, aimed at delivering actionable business insights to support a newly appointed Head of Sales.
 
