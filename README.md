@@ -5,9 +5,9 @@ This project presents a comprehensive data analysis case study for Bright Motors
 
 As a Junior Data Analyst, the objective was to analyze historical car sales data and provide strategic recommendations to improve:
 
-*Sales performance
-*Inventory optimization
-*Dealership expansion strategies
+Sales performance
+Inventory optimization
+Dealership expansion strategies
 
 The analysis is based on the "Bright Car Sales" dataset, which contains transactional and pricing data for vehicles sold by the dealership.
 
