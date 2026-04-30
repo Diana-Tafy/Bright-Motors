@@ -5,9 +5,9 @@ This project presents a comprehensive data analysis case study for Bright Motors
 
 As a Junior Data Analyst, the objective was to analyze historical car sales data and provide strategic recommendations to improve:
 
-Sales performance
-Inventory optimization
-Dealership expansion strategies
+#Sales performance
+#Inventory optimization
+#Dealership expansion strategies
 
 The analysis is based on the "Bright Car Sales" dataset, which contains transactional and pricing data for vehicles sold by the dealership.
 
@@ -15,11 +15,11 @@ The analysis is based on the "Bright Car Sales" dataset, which contains transact
 
 ###The project focuses on answering key business questions:
 
-*Which car makes and models generate the most revenue
-*Relationship between price, mileage, and manufacturing year
-*Top-performing regions by sales volume
-*Customer purchasing trends
-*Recommendations to increase profitability and efficiency
+#Which car makes and models generate the most revenue
+#Relationship between price, mileage, and manufacturing year
+#Top-performing regions by sales volume
+#Customer purchasing trends
+#Recommendations to increase profitability and efficiency
 
 ###Tools & Technologies
 SQL/Big Query – Data transformation & analysis
@@ -29,28 +29,28 @@ Miro / Canva Grantt Chart – Data architecture planning
 
 ###Key Insights Delivered
 
-*Revenue by car make and model
-*Monthly and quarterly revenue trends
-*Regional sales performance
-*Mileage analysis by brand
-*Average selling price trends over time
-*Top 5 most popular car colors
+#Revenue by car make and model
+#Monthly and quarterly revenue trends
+#Regional sales performance
+#Mileage analysis by brand
+#Average selling price trends over time
+#Top 5 most popular car colors
 
 
  ###Deliverables
  
-*Cleaned dataset
-*SQL queries
-*Interactive dashboard
-*Business presentation
+#Cleaned dataset
+#SQL queries
+#Interactive dashboard
+#Business presentation
 
 
 ###Skills Demonstrated
 
-*Data Analysis
-*SQL & Data Transformation
-*Data Visualization
-*Business Insight Communication
+#Data Analysis
+#SQL & Data Transformation
+#Data Visualization
+#Business Insight Communication
 
 
 
