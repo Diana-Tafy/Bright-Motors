@@ -28,11 +28,15 @@ This analysis focuses on answering critical executive business questions:
 
 ## 📊 Key Executive Findings & Insights
 
-* **Total Revenue & Volume:** **$7.49B** ($7,487,578,138) generated across 550,296 vehicle transactions, with an Average Selling Price (ASP) of **$13,606.75**.
-* **Top Makes & Concentration:** **Ford** leads all manufacturers (~$1.4B in revenue), followed by Chevrolet and Nissan. The top 10 models account for **$5.32B** of total revenue.
-* **Pricing & Deal Quality:** Over **98%** of transactions occurred At Market (**51.2%**) or Above Market (**46.8%**), indicating strong pricing power.
-* **Regional Performance:** **Florida ($1.21B)** and **California ($1.15B)** dominate nationwide revenue, accounting for over 30% of total sales.
-* **Consumer Preference (Color Breakdown):** Neutral colors dominate **71.4%** of sales volume — Black (**22.6%**), White (**20.7%**), Gray (**15.2%**), and Silver (**12.9%**).
+* **Total Revenue & Volume:** Total revenue reached **$7.49B** ($7,487,578,138) across **550,296** units sold, yielding an Average Selling Price (ASP) of **$13,606.75** (up **+24.6% YoY**).
+* **Inventory Efficiency & Pricing Variance:** Average Days to Sell sits at **34 Days** (under the <40 day target), with ASP Target Variance exceeding operational floors by **+$607 (+4.7%)**.
+* **Top Makes & Market Concentration:** **Ford** leads market revenue (**>$1.3B**), with domestic volume brands (**Ford, Chevrolet, Nissan**) generating the majority of overall revenue.
+* **Pricing & Deal Quality:** **51.2%** of vehicles sold **At Market** and **46.8%** sold **Above Market**, with under **2%** selling Below Market.
+* **Regional Performance:** **Florida ($1.21B)** and **California ($1.15B)** dominate nationwide revenue as top regional drivers, supported by Pennsylvania ($690M) and Texas ($640M).
+* **Price Tier Performance:** **Mid-Range ($10k–$25k)** delivers peak sales volume with high price stability, whereas **Luxury (>$50k)** experiences significant price variance swings (~20%).
+* **Valuation & Depreciation:** Steepest price drops occur within **years 0–3**, low mileage (<30k) retains strong premiums, and price curves plateau across years 4–8.
+* **Sales Trends & Fleet Mix:** Revenue peaked sharply in **Q1 2015 (> $4.5B)** following late 2014 growth; inventory volume centers heavily on **2012–2014 model years** (80k–100k+ units/yr).
+* **Consumer Preference (Color Breakdown):** Neutral colors dominate **71.4%** of total sales volume — **Black (22.6%)**, **White (20.7%)**, **Gray (15.2%)**, and **Silver (12.9%)**.
 
 ---
 
