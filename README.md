@@ -4,7 +4,7 @@
 
 Dashboard https://snxbbrightcarsales.lovable.app
 
-          https://datastudio.google.com/s/n0YOPnTZbLE
+Data Studio Dashboard https://datastudio.google.com/s/n0YOPnTZbLE
 
 # 🏎️ SNXB Bright Car Sales | Business Intelligence Case Study
 
